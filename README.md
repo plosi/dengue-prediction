@@ -13,14 +13,14 @@ Climate data: ERA5 (https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysi
 
 
 ### Data summary
-cases:      total number of dengue cases (week)
-prec:       rainfall in mm (day >> week)
-tmin:       minimum air temperature in Celsius (day >> week)
-tmax:       maximum air temperature in Celsius (day >> week)
-tmean:      average air temperature in Celsius (day >> week)
-dewmean:    average dew point in Celsius (day >> week)
-rh:         average relative humidity in %, calculated from dewmean and tmean (day >> week)
-sst:        average sea surface temperature in Celsius (day >> week)
+- cases:      total number of dengue cases (week)
+- prec:       rainfall in mm (day >> week)
+- tmin:       minimum air temperature in Celsius (day >> week)
+- tmax:       maximum air temperature in Celsius (day >> week)
+- tmean:      average air temperature in Celsius (day >> week)
+- dewmean:    average dew point in Celsius (day >> week)
+- rh:         average relative humidity in %, calculated from dewmean and tmean (day >> week)
+- sst:        average sea surface temperature in Celsius (day >> week)
 
 Data available from 01-01-2014 to 31-07-2023.
 
