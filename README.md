@@ -22,7 +22,7 @@ Climate data: ERA5 (https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysi
 - rh:         average relative humidity in %, calculated from dewmean and tmean (day >> week)
 - sst:        average sea surface temperature in Celsius (day >> week)
 
-Data available from 01-01-2014 to 31-07-2023.
+Data available from 01-01-2014 to 30-07-2023.
 
 ## Methods
 - Use of epidemiological data (total reported dengue cases) combined with regional (rainfall, air temperature and humidity) and global (SST) climate indicators
